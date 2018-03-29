@@ -1,3 +1,3 @@
 git add .
 git commit -m 'add: image'
-git push master master
+git push origin master
